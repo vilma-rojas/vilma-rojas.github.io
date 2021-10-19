@@ -60,3 +60,23 @@ body{
   font-size: 16px;
   font-family: 'Lato', sans-serif; 
 }
+
+.subtitulo{
+	color: springgreen;
+	font-size: 25px;
+	font-family: 'Lato', sans-serif; 
+
+}
+
+.titulo{
+	color:  white;
+	font-size: 100px;
+	font-family: 'Lato', sans-serif; 
+
+}
+
+.subtitulo2{
+	color:  grey;
+	font-size: 50px;
+	font-family: 'Lato', sans-serif; 
+}
