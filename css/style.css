@@ -4,7 +4,7 @@
 }
 
 body{
-	background-color: black;
+	background-color:black;
   
 }
 
@@ -26,7 +26,7 @@ body{
 }
 
 #inicio{
-  border:2px black;
+  border:2px;
   width: 14x;
   height: 55px;
   margin-left: 950px;
@@ -36,8 +36,8 @@ body{
 }
 
 #proyectos {
-  border:2px black;
-  background-color:black;
+  border:2px;
+  background-color: black;
   width: 150px;
   height: 42px;
   margin-left: 10px;
@@ -45,8 +45,8 @@ body{
 
 }
 #sobreMi{
-  border:2px black;
-  background-color:black;
+  border:2px;
+   /*background-color: black;*/
   width: 150px;
   height: 42px;
   margin-left: -33px;
@@ -55,8 +55,8 @@ body{
 }
 
 #contacto{
-  border:2px black;
-  background-color:black;
+  border:2px ;
+  background-color: black;
   width: 150px;
   height: 42px;
   margin-left: -33px;
@@ -81,7 +81,7 @@ body{
 	color: #42cc86;
 	font-size: 30px;
 	font-family: 'Lato', sans-serif; 
-  font-weight: medium;
+  font-weight: large;
 
 }
 
@@ -95,14 +95,15 @@ body{
 
 .subtitulo2{
 	color:  white;
-	font-size: 27px;
+	font-size: 28px;
 	font-family: 'Lato', sans-serif; 
   font-weight: bold;
 }
 
 .subtitulo3{
 	color:  #8b8a82;
-	font-size: 27px;
+  
+	font-size: 28px;
 	font-family: 'Lato', sans-serif; 
   font-weight: bold;
 }
@@ -112,3 +113,38 @@ body{
 	font-size: 20px;
 	font-family: 'Lato', sans-serif; 
 }
+
+.github{
+  border-color: lime;
+  height: 40px;
+  width: 40px;
+  color: white;
+  
+
+}
+
+.gmail{
+  height: 40px;
+  width: 40px;
+  color: white;
+  
+
+}
+
+.cv{
+  height: 40px;
+  width: 40px;
+ 
+
+}
+.linkedin{
+  height: 40px;
+  width: 40px;
+ 
+
+}
+
+.iconos{
+  color: white;
+}
+
