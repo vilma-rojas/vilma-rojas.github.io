@@ -5,12 +5,23 @@
 
 body{
 	background-color: black;
+  
+}
+
+.body2{
+  width: 800px;
+  height: 1000px;
+  margin-left: 140px;
+
 }
 
 .navbar{
   border-width: 13px;
   width: 100%;
   height: 65px;
+  font-size: 32px;
+  /*border-bottom-color: gray;
+  border-bottom-width: 1px;*/
 
 }
 
@@ -18,9 +29,10 @@ body{
   border:2px black;
   width: 14x;
   height: 55px;
-  margin-left: 850px;
+  margin-left: 950px;
   margin-top: -15px;
   background-color: black;
+ 
 }
 
 #proyectos {
@@ -30,6 +42,7 @@ body{
   height: 42px;
   margin-left: 10px;
 
+
 }
 #sobreMi{
   border:2px black;
@@ -37,6 +50,7 @@ body{
   width: 150px;
   height: 42px;
   margin-left: -33px;
+
 
 }
 
@@ -47,6 +61,7 @@ body{
   height: 42px;
   margin-left: -33px;
 
+
 }
 
 #htmltxt{
@@ -54,29 +69,46 @@ body{
   font-weight: bold;
   font-size: 15px;
   font-family: 'Lato', sans-serif;
+  cursor: pointer;
 }
 #htmltxt:hover{
-  color: grey;
-  font-size: 16px;
+  color: white;
+  font-size: 15px;
   font-family: 'Lato', sans-serif; 
 }
 
 .subtitulo{
-	color: springgreen;
-	font-size: 25px;
+	color: #42cc86;
+	font-size: 30px;
 	font-family: 'Lato', sans-serif; 
+  font-weight: medium;
 
 }
 
 .titulo{
 	color:  white;
-	font-size: 100px;
+	font-size: 110px;
+  font-weight: bold;
 	font-family: 'Lato', sans-serif; 
 
 }
 
 .subtitulo2{
-	color:  grey;
-	font-size: 50px;
+	color:  white;
+	font-size: 27px;
+	font-family: 'Lato', sans-serif; 
+  font-weight: bold;
+}
+
+.subtitulo3{
+	color:  #8b8a82;
+	font-size: 27px;
+	font-family: 'Lato', sans-serif; 
+  font-weight: bold;
+}
+
+.subtitulo4{
+	color:  #8b8a82;
+	font-size: 20px;
 	font-family: 'Lato', sans-serif; 
 }
