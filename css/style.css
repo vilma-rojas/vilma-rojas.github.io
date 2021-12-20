@@ -78,10 +78,12 @@ body{
 }
 
 .subtitulo{
-	color: #42cc86;
+/*	color: #42cc86;*/
+  color: #3C066C;
 	font-size: 30px;
 	font-family: 'Lato', sans-serif; 
   font-weight: large;
+  
 
 }
 
@@ -115,36 +117,103 @@ body{
 }
 
 .github{
-  border-color: lime;
-  height: 40px;
-  width: 40px;
-  color: white;
+  height: 30px;
+  width: 30px;
+ 
   
 
 }
 
 .gmail{
-  height: 40px;
-  width: 40px;
-  color: white;
+  height: 25px;
+  width: 25px;
   
 
 }
 
 .cv{
-  height: 40px;
-  width: 40px;
+  height: 25px;
+  width: 25px;
  
 
 }
 .linkedin{
-  height: 40px;
-  width: 40px;
+  height: 25px;
+  width: 25px;
+  background-color: #43116F;
  
 
 }
 
-.iconos{
+.novedad1{
+  border: 1px;
+  width: 90px;
+  height: 45px;
+  padding:1px;
+  border-radius: 10px;
+  margin: 5px;
+  background-color: #290747;
+  color: white;
+  font-family: 'Lato', sans-serif; 
+ 
+}
+
+.novedad1:hover{
+  color: rgba(255, 255, 255, 1) !important;
+  box-shadow: 0 4px 16px white;
+  transition: all 0.8s ease;
+}
+
+.novedad2{
+  border: 1px;
+  width: 100px;
+  height: 45px;
+  padding: 1px;
+  border-radius: 10px;
+  margin: 5px;
+  background-color: #290747;
+  color: white;
+  
+}
+
+.novedad2:hover{
+  color: rgba(255, 255, 255, 1) !important;
+  box-shadow: 0 4px 16px white;
+  transition: all 0.8s ease;
+}
+
+.novedad3{
+  border: 1px;
+  width: 100px;
+  height: 45px;
+  padding: 1px;
+  border-radius: 10px;
+  margin: 5px;
+  background-color: #290747;
   color: white;
 }
 
+.novedad3:hover{
+  color: rgba(255, 255, 255, 1) !important;
+  box-shadow: 0 4px 16px white;
+  transition: all 0.8s ease;
+}
+
+.novedad4{
+  border: 1px;
+  width: 150px;
+  height: 45px;
+  padding:1px;
+  border-radius: 10px;
+  margin: 5px;
+  background-color: #290747;
+  color: white;
+
+
+}
+
+.novedad4:hover{
+  color: rgba(255, 255, 255, 1) !important;
+  box-shadow: 0 4px 16px white;
+  transition: all 0.8s ease;
+}
