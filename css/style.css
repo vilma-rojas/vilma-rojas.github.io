@@ -57,6 +57,10 @@ body{
     font-size: 20px;
     color: #FFFFFF;
     height: 70px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #2E2B32 black #2E2B32 black;
+    
     
   
 }
@@ -94,11 +98,14 @@ body{
  
 }
 
+#inicio:hover{
+  font-size: 16px;
+}
 
 
-#proyectos {
+
+#proyectos{
   color: white;
-
   cursor: pointer;
   font-weight: bold;
   font-size: 15px;
@@ -114,17 +121,10 @@ body{
 
 
 }
-/*
-#sobreMi{
-  border:2px;
-  background-color: black;
-  width: 150px;
-  height: 42px;
-  margin-left: -33px;
 
-
+#proyectos:hover{
+  font-size: 16px;
 }
-*/
 
 #contacto{
   color: white;
@@ -141,21 +141,12 @@ body{
   color: white;
   font-family: 'Lato', sans-serif; 
 
-
 }
 
-#htmltxt{
-  color: white;
-  font-weight: bold;
-  font-size: 15px;
-  font-family: 'Lato', sans-serif;
-  cursor: pointer;
+#contacto:hover{
+  font-size: 16px;
 }
-#htmltxt:hover{
-  color: white;
-  font-size: 15px;
-  font-family: 'Lato', sans-serif; 
-}
+
 
 .subtitulo{
 /*	color: #42cc86;*/
@@ -311,7 +302,7 @@ body{
 }
 
 .imagen{
-  margin-left: 745px;
+  margin-left: 760px;
   margin-top: -530px;
   padding: 10px;
   
