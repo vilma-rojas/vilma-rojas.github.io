@@ -81,7 +81,7 @@ body{
 
 .subtitulo{
 /*	color: #42cc86;*/
-  color: #3C066C;
+  color: #290747;
 	font-size: 30px;
 	font-family: 'Lato', sans-serif; 
   font-weight: large;
@@ -122,6 +122,7 @@ body{
   height: 30px;
   width: 30px;
  
+ 
   
 
 }
@@ -130,19 +131,21 @@ body{
   height: 25px;
   width: 25px;
   
+  
 
 }
 
 .cv{
   height: 25px;
   width: 25px;
+  
  
 
 }
 .linkedin{
   height: 25px;
   width: 25px;
-  background-color: #43116F;
+
  
 
 }
