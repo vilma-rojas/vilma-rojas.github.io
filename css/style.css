@@ -35,6 +35,8 @@ body{
  
 }
 
+
+
 #proyectos {
   border:2px;
   background-color: black;
@@ -160,7 +162,7 @@ body{
 
 .novedad1:hover{
   color: rgba(255, 255, 255, 1) !important;
-  box-shadow: 0 4px 16px white;
+  box-shadow: 0 4px 16px #6E6A72;
   transition: all 0.8s ease;
 }
 
@@ -178,7 +180,7 @@ body{
 
 .novedad2:hover{
   color: rgba(255, 255, 255, 1) !important;
-  box-shadow: 0 4px 16px white;
+  box-shadow: 0 4px 16px #6E6A72;
   transition: all 0.8s ease;
 }
 
@@ -195,7 +197,7 @@ body{
 
 .novedad3:hover{
   color: rgba(255, 255, 255, 1) !important;
-  box-shadow: 0 4px 16px white;
+  box-shadow: 0 4px 16px #6E6A72;
   transition: all 0.8s ease;
 }
 
@@ -214,6 +216,6 @@ body{
 
 .novedad4:hover{
   color: rgba(255, 255, 255, 1) !important;
-  box-shadow: 0 4px 16px white;
+  box-shadow: 0 4px 16px #6E6A72;
   transition: all 0.8s ease;
 }
