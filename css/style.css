@@ -26,59 +26,120 @@ body{
 
 .body4{
   width: 1050px;
-  height: 615px;
+  height: 600px;
   margin-left: 140px;
   
 
 }
 
-.navbar{
-  border-width: 13px;
+.body5{
+  width: 1050px;
+  height: 600px;
+  margin-left: 140px;
+  
+
+}
+.page{
+  margin: 0px auto;
   width: 100%;
-  height: 65px;
-  font-size: 32px;
+  
+  
+  
+ 
+}
+
+.header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 7px;
+    background-color: black;
+    font-size: 20px;
+    color: #FFFFFF;
+    height: 70px;
+    
+  
+}
+
+.navbar{
+  margin-left: 1000px;
+}
+
+.navbar3{
+  
+  width: 1000px;
+  height: 80px;
+  /*font-size: 32px;*/
+  position: fixed;
+  background-color: white;
   /*border-bottom-color: gray;
   border-bottom-width: 1px;*/
 
 }
 
 #inicio{
-  border:2px;
-  width: 14x;
-  height: 55px;
-  margin-left: 950px;
-  margin-top: -15px;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 15px;
+  border: 1px;
+  width: 90px;
+  height: 45px;
+  padding:1px;
+  border-radius: 10px;
+  margin: 5px;
   background-color: black;
+  color: white;
+  font-family: 'Lato', sans-serif; 
  
 }
 
 
 
 #proyectos {
-  border:2px;
+  color: white;
+
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 15px;
+  margin: 5px;
+  border: 1px;
+  width: 90px;
+  height: 45px;
+  padding:1px;
+  border-radius: 10px;
   background-color: black;
-  width: 150px;
-  height: 42px;
-  margin-left: 10px;
+  color: white;
+  font-family: 'Lato', sans-serif; 
 
 
 }
+/*
 #sobreMi{
   border:2px;
-   /*background-color: black;*/
+  background-color: black;
   width: 150px;
   height: 42px;
   margin-left: -33px;
 
 
 }
+*/
 
 #contacto{
-  border:2px ;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 15px;
+  margin: 1px;
+  border: 1px;
+  width: 90px;
+  height: 45px;
+  padding:1px;
+  border-radius: 10px;
   background-color: black;
-  width: 150px;
-  height: 42px;
-  margin-left: -33px;
+  color: white;
+  font-family: 'Lato', sans-serif; 
 
 
 }
@@ -250,7 +311,7 @@ body{
 }
 
 .imagen{
-  margin-left: 800px;
+  margin-left: 745px;
   margin-top: -530px;
   padding: 10px;
   
