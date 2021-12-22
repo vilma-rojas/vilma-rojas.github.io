@@ -37,19 +37,19 @@ body{
   height: 600px;
   margin-left: 140px;*/
   width: 1070px;
-  height: 1500px;
+  height: 950px;
   margin-left: 140px;
-  background-color: grey;
+ 
   
 
 }
 
 .body6{
-  width: 480px;
+  width: 1070px;
   height: 1000px;
-  margin-left: 680px;
-  margin-top: -1000px;
-  background-color: grey;
+ 
+  background-color: green;
+  margin-top: 120px;
 
 }
 
@@ -437,7 +437,7 @@ body{
   border: 1px;
   padding:1px;
   border-radius: 5px;
-  background-color:  white;
+  background-color:  #413F3F;
   font-family: 'Lato', sans-serif; 
   margin-left: 230px;
 
@@ -447,11 +447,10 @@ body{
   
 
 }
-/*
 .github01:hover{
-  background-color: #6E6A72;
+  background-color: #b2a9b2;
   transition: all 0.8s ease;
-}*/
+}
 
 .enlace{
   height: 30px;
@@ -459,13 +458,17 @@ body{
   border: 1px;
   padding:1px;
   border-radius: 5px;
-  background-color:  white;
+  background-color:  #413F3F;
   font-family: 'Lato', sans-serif; 
   margin-top: 10px;
  
  
   
 
+}
+.enlace:hover{
+  background-color: #b2a9b2;
+  transition: all 0.8s ease;
 }
 
 /*Poryecto 02*/
@@ -475,7 +478,7 @@ body{
   border: 1px;
   padding:1px;
   border-radius: 5px;
-  background-color:  white;
+  background-color:  #413F3F;
   font-family: 'Lato', sans-serif; 
   margin-left: 273px;
 
@@ -485,11 +488,11 @@ body{
   
 
 }
-/*
-.github01:hover{
-  background-color: #6E6A72;
+
+.github02:hover{
+  background-color: #b2a9b2;
   transition: all 0.8s ease;
-}*/
+}
 
 .enlace02{
   height: 30px;
@@ -497,7 +500,7 @@ body{
   border: 1px;
   padding:1px;
   border-radius: 5px;
-  background-color:  white;
+  background-color:  #413F3F;
   font-family: 'Lato', sans-serif; 
   margin-top: 10px;
  
@@ -505,12 +508,11 @@ body{
   
 
 }
-/*
-.enlace:hover{
-  background-color: #6E6A72;
+.enlace02:hover{
+  background-color: #b2a9b2;
   transition: all 0.8s ease;
 }
-*/
+
 .nombre-proyecto{
   color:  white;
 	font-size: 22px;
@@ -554,8 +556,63 @@ body{
   margin-left: 15px;
   opacity:0.7;
  filter:alpha(opacity=80); /* For IE8 and earlier */
- color: rgba(255, 255, 255, 1) !important;
+ color: rgba(255, 255, 255, 1) ;
   box-shadow: 0 2px 14px #6E6A72;
   transition: all 0.8s ease;
   
+  
+}
+
+.casaTerminada2{
+  width: 500px;
+  height: 420px;
+  background-color:  #131411;
+  margin-left: 555px;
+  margin-top: 50px;
+  border-radius: 10px;
+  
+
+}
+
+/*Poryecto 03*/
+.github03{
+  height: 30px;
+  width: 30px;
+  border: 1px;
+  padding:1px;
+  border-radius: 5px;
+  background-color:  #413F3F;
+  font-family: 'Lato', sans-serif; 
+  margin-left: 230px;
+
+  margin-top: 10px;
+ 
+ 
+  
+
+}
+
+.github03:hover{
+  background-color: #b2a9b2;
+  transition: all 0.8s ease;
+}
+
+.enlace03{
+  height: 30px;
+  width: 30px;
+  border: 1px;
+  padding:1px;
+  border-radius: 5px;
+  background-color:  #413F3F;
+  font-family: 'Lato', sans-serif; 
+  margin-top: 10px;
+ 
+ 
+  
+
+}
+
+.enlace03:hover{
+  background-color: #b2a9b2;
+  transition: all 0.8s ease;
 }
