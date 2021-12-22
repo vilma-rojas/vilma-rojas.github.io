@@ -361,7 +361,7 @@ body{
 /*Casa de lujo*/
 .casaDeLujo{
   width: 500px;
-  height: 400px;
+  height: 420px;
   background-color:  #131411;
   margin-left: -15px;
   margin-top: 110px;
@@ -378,7 +378,7 @@ body{
 /*Casa Terminada*/
 .casaTerminada{
   width: 500px;
-  height: 400px;
+  height: 420px;
   background-color:  #131411;
   margin-left: 555px;
   margin-top: -550px;
@@ -430,7 +430,7 @@ body{
   height: 300px;
 
 }*/
-
+/*Poryecto 01*/
 .github01{
   height: 30px;
   width: 30px;
@@ -461,8 +461,44 @@ body{
   border-radius: 5px;
   background-color:  white;
   font-family: 'Lato', sans-serif; 
+  margin-top: 10px;
+ 
+ 
+  
 
-  margin-left: 0px;
+}
+
+/*Poryecto 02*/
+.github02{
+  height: 30px;
+  width: 30px;
+  border: 1px;
+  padding:1px;
+  border-radius: 5px;
+  background-color:  white;
+  font-family: 'Lato', sans-serif; 
+  margin-left: 273px;
+
+  margin-top: 10px;
+ 
+ 
+  
+
+}
+/*
+.github01:hover{
+  background-color: #6E6A72;
+  transition: all 0.8s ease;
+}*/
+
+.enlace02{
+  height: 30px;
+  width: 30px;
+  border: 1px;
+  padding:1px;
+  border-radius: 5px;
+  background-color:  white;
+  font-family: 'Lato', sans-serif; 
   margin-top: 10px;
  
  
@@ -503,6 +539,7 @@ body{
   border-style: solid;
   border-width: 1px;
   border-color: #2E2B32 #131411 #131411 #131411;
+  margin-top: 10px;
   
 }
 
@@ -511,4 +548,14 @@ body{
 	font-size: 19px;
 	font-family: 'Lato', sans-serif; 
 
+}
+
+.tecnologias{
+  margin-left: 15px;
+  opacity:0.7;
+ filter:alpha(opacity=80); /* For IE8 and earlier */
+ color: rgba(255, 255, 255, 1) !important;
+  box-shadow: 0 2px 14px #6E6A72;
+  transition: all 0.8s ease;
+  
 }
