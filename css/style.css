@@ -464,7 +464,7 @@ body{
   border: 1px;
   padding:1px;
   border-radius: 5px;
-  background-color:  #413F3F;
+  background-color:  #b2a9b2;
   font-family: 'Lato', sans-serif; 
   margin-left: 230px;
 
@@ -475,7 +475,7 @@ body{
 
 }
 .github01:hover{
-  background-color: #b2a9b2;
+  background-color: white;
   transition: all 0.8s ease;
 }
 
@@ -485,7 +485,7 @@ body{
   border: 1px;
   padding:1px;
   border-radius: 5px;
-  background-color:  #413F3F;
+  background-color:  #b2a9b2;
   font-family: 'Lato', sans-serif; 
   margin-top: 10px;
  
@@ -494,7 +494,7 @@ body{
 
 }
 .enlace:hover{
-  background-color: #b2a9b2;
+  background-color: white;
   transition: all 0.8s ease;
 }
 
@@ -505,7 +505,7 @@ body{
   border: 1px;
   padding:1px;
   border-radius: 5px;
-  background-color:  #413F3F;
+  background-color:  #b2a9b2;
   font-family: 'Lato', sans-serif; 
   margin-left: 273px;
 
@@ -517,7 +517,7 @@ body{
 }
 
 .github02:hover{
-  background-color: #b2a9b2;
+  background-color: white;
   transition: all 0.8s ease;
 }
 
@@ -527,7 +527,7 @@ body{
   border: 1px;
   padding:1px;
   border-radius: 5px;
-  background-color:  #413F3F;
+  background-color:  #b2a9b2;
   font-family: 'Lato', sans-serif; 
   margin-top: 10px;
  
@@ -536,7 +536,7 @@ body{
 
 }
 .enlace02:hover{
-  background-color: #b2a9b2;
+  background-color: white;
   transition: all 0.8s ease;
 }
 
@@ -608,7 +608,7 @@ body{
   border: 1px;
   padding:1px;
   border-radius: 5px;
-  background-color:  #413F3F;
+  background-color:  #b2a9b2;
   font-family: 'Lato', sans-serif; 
   margin-left: 230px;
 
@@ -620,7 +620,7 @@ body{
 }
 
 .github03:hover{
-  background-color: #b2a9b2;
+  background-color: white;
   transition: all 0.8s ease;
 }
 
@@ -630,7 +630,7 @@ body{
   border: 1px;
   padding:1px;
   border-radius: 5px;
-  background-color:  #413F3F;
+  background-color:  #b2a9b2;
   font-family: 'Lato', sans-serif; 
   margin-top: 10px;
  
@@ -640,7 +640,7 @@ body{
 }
 
 .enlace03:hover{
-  background-color: #b2a9b2;
+  background-color: white;
   transition: all 0.8s ease;
 }
 
