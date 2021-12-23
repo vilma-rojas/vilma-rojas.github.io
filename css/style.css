@@ -46,10 +46,26 @@ body{
 
 .body6{
   width: 1070px;
-  height: 1000px;
+  height: 500px;
+  margin-top: 100px;
+
+}
+
+.tech-skills{
+  width: 500px;
+  height: 500px;
+  margin-top: 0%;
+  
+
+}
+
+.soft-skills{
+  width: 500px;
+  height: 500px;
+  margin-left: 570px;
+  margin-top: -500px;
  
-  background-color: green;
-  margin-top: 120px;
+  
 
 }
 
@@ -615,4 +631,242 @@ body{
 .enlace03:hover{
   background-color: #b2a9b2;
   transition: all 0.8s ease;
+}
+
+
+/*Soft Skills*/
+.skills01{
+  border-radius: 10px;
+  /*border-color: black black #2E2B32 black;*/
+  width: 478px;
+  height: 50px;
+  margin-left: 12px;
+  background-color:#131411;
+  text-align: center;
+  
+}
+
+.text-skills{
+  color:  white;
+	font-size: 28px;
+	font-family: 'Lato', sans-serif; 
+  font-weight: bold;
+  
+  
+
+}
+
+.skills02{
+  text-align: center;
+  height: 50px;
+  width: 478px;
+  margin-left: 12px;
+  background-color:#131411;
+  border-radius: 10px;
+  
+  
+}
+
+.lista-soft{
+  color: white;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif; 
+  margin-left: 45px;
+  margin-top: 35px;
+ 
+
+  
+  
+}
+
+.tilde{
+  height: 30px;
+  width: 25px;
+  
+}
+
+
+.nombre-tech{
+  color: grey;
+  font-size: 17px;
+  font-family: 'Lato', sans-serif; 
+  
+}
+/*Spring*/
+.spring{
+  height: 60px;
+  width: 60px;
+  margin-left: 13px;
+  
+}
+.tech-spring{
+  width: 100px;
+  height: 100px;
+  margin-left: 45px;/*35*/
+  margin-top: 35px;
+}
+
+/*Hibernate*/
+.hibernate{
+  height: 60px;
+  width: 60px;
+  margin-left: 5px;
+  
+}
+
+.tech-hibernate{
+  width: 100px;
+  height: 100px;
+  margin-left: 160px;
+  margin-top: -100px;
+}
+
+/*Java*/
+.java{
+  height: 70px;
+  width: 70px;
+  margin-left: -13px;
+  
+}
+
+.tech-java{
+  width: 100px;
+  height: 100px;
+  margin-left: 270px;
+  margin-top: -110px;
+}
+
+/*React*/
+.react{
+  height: 70px;
+  width: 70px;
+  margin-left: 0px;
+  
+}
+
+.tech-react{
+  width: 100px;
+  height: 100px;
+  margin-left: 350px;
+  margin-top: -100px;
+}
+
+/*Amazon*/
+.amazon{
+  height: 70px;
+  width: 70px;
+  margin-left: 0px;
+  
+}
+
+.tech-amazon{
+  width: 150px;
+  height: 100px;
+  margin-left: 50px;/*35*/
+  margin-top: 15px;
+}
+
+/*Mysql*/
+.mysql{
+  height: 70px;
+  width: 70px;
+  margin-left: -8px;
+  
+}
+
+.tech-mysql{
+  width: 150px;
+  height: 100px;
+  margin-left: 168px;/*35*/
+  margin-top: -100px;
+}
+
+/*C*/
+.c{
+  height: 70px;
+  width: 70px;
+  margin-left: 0px;
+  
+}
+
+.tech-c{
+  width: 150px;
+  height: 100px;
+  margin-left: 255px;
+  margin-top: -90px;
+}
+
+/*JS*/
+.js{
+  height: 60px;
+  width: 60px;
+  margin-left: 7px;
+  
+}
+
+.tech-js{
+  width: 150px;
+  height: 100px;
+  margin-left: 350px;
+  margin-top: -100px;
+}
+
+/*Boostrap*/
+.bootstrap{
+  height: 60px;
+  width: 60px;
+  margin-left: 5px;
+  
+}
+
+.tech-bootstrap{
+  width: 150px;
+  height: 100px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+/*CSS3*/
+.css{
+  height: 65px;
+  width: 65px;
+  margin-left: -9px;
+  
+}
+
+.tech-css{
+  width: 150px;
+  height: 100px;
+  margin-left: 165px;
+  margin-top: -100px;
+}
+
+/*html*/
+.html{
+  height: 65px;
+  width: 65px;
+  margin-left: -5px;
+  
+}
+
+.tech-html{
+  width: 150px;
+  height: 100px;
+  margin-left: 260px;
+  margin-top: -100px;
+}
+
+/*git*/
+.git{
+  height: 70px;
+  width: 70px;
+  margin-left: -20px;
+  
+}
+
+.tech-git{
+  width: 150px;
+  height: 100px;
+  margin-left: 375px;
+  margin-top: -105px;
 }
