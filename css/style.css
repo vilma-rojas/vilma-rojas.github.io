@@ -766,14 +766,14 @@ body{
 .amazon{
   height: 70px;
   width: 70px;
-  margin-left: 0px;
+  margin-left: -7px;
   
 }
 
 .tech-amazon{
   width: 150px;
   height: 100px;
-  margin-left: 50px;/*35*/
+  margin-left: 65px;/*35*/
   margin-top: 15px;
 }
 
