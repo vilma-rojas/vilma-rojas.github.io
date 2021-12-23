@@ -638,7 +638,7 @@ body{
 .skills01{
   border-radius: 10px;
   /*border-color: black black #2E2B32 black;*/
-  width: 478px;
+  width: 495px;
   height: 50px;
   margin-left: 12px;
   background-color:#131411;
@@ -659,8 +659,8 @@ body{
 .skills02{
   text-align: center;
   height: 50px;
-  width: 478px;
-  margin-left: 12px;
+  width: 500px;
+  margin-left: 0px;
   background-color:#131411;
   border-radius: 10px;
   
