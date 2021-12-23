@@ -51,6 +51,14 @@ body{
 
 }
 
+.body7{
+  width: 415px;
+  height: 430px;
+  margin-left: 290px;
+ 
+
+}
+
 .tech-skills{
   width: 500px;
   height: 500px;
@@ -869,4 +877,52 @@ body{
   height: 100px;
   margin-left: 375px;
   margin-top: -105px;
+}
+
+.contacto{
+  width: 1070;
+  height: 60px;
+
+  text-align: center;
+  margin-top: 100px;
+	
+}
+
+.letra-contact{
+  color:  white;
+	font-size: 50px;
+	font-family: 'Lato', sans-serif; 
+  font-weight: bold;
+  
+  
+
+}
+
+.text-cont{
+  color:  #8b8a82;
+	font-size: 17px;
+	font-family: 'Lato', sans-serif; 
+  width: 400px;
+  margin-top: 50px;
+  margin-left: 18px;
+  
+
+}
+
+.con-tech{
+  margin-top: 25px;
+  margin-left: 15px;
+}
+
+.footer{
+  margin-top: 140px;
+  text-align: center;
+}
+
+.footer-letra{
+  color:  #8b8a82;
+	font-size: 15px;
+	font-family: 'Lato', sans-serif; 
+  
+
 }
