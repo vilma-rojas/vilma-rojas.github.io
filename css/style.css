@@ -187,8 +187,8 @@ body{
 
 
 .subtitulo{
-/*	color: #42cc86;*/
-  color: #290747;
+/*	color: #42cc86; A7035D #290747;*/
+  color: #5E0637;
 	font-size: 30px;
 	font-family: 'Lato', sans-serif; 
   font-weight: large;
@@ -245,12 +245,14 @@ body{
   width: 25px;
   
   
+  
 
 }
 
 .cv{
   height: 25px;
   width: 25px;
+
   
  
 
@@ -270,19 +272,17 @@ body{
   padding:1px;
   border-radius: 10px;
   margin: 5px;
-  background-color: #290747;
-  color: #838383;
+  background-color: #5E0637;
+  color: white;
   font-family: 'Lato', sans-serif; 
-  
-  
+  font-size: 16px;
 
- 
 }
 
 .novedad1:hover{
-  color: rgba(255, 255, 255, 1) !important;
-  box-shadow: 0 4px 16px #6E6A72;
-  transition: all 0.8s ease;
+  box-shadow: 0 2px 14px #84064C;
+  background-color:  #84064C;
+  transition: all 0.1s ease;
 }
 
 .novedad2{
@@ -292,51 +292,54 @@ body{
   padding: 1px;
   border-radius: 10px;
   margin: 5px;
-  background-color: #290747;
-  color: #838383;
+  background-color: #5E0637;
+  color: white;
+  font-size: 16px;
   
 }
 
 .novedad2:hover{
-  color: rgba(255, 255, 255, 1) !important;
-  box-shadow: 0 4px 16px #6E6A72;
-  transition: all 0.8s ease;
+  box-shadow: 0 2px 14px #84064C;
+  background-color:  #84064C;
+  transition: all 0.1s ease;
 }
 
 .novedad3{
   border: 1px;
-  width: 100px;
+  width: 110px;
   height: 45px;
   padding: 1px;
   border-radius: 10px;
   margin: 5px;
-  background-color: #290747;
-  color: #838383;
+  background-color: #5E0637;
+  color: white;
+  font-size: 16px;
 }
 
 .novedad3:hover{
-  color: rgba(255, 255, 255, 1) !important;
-  box-shadow: 0 4px 16px #6E6A72;
-  transition: all 0.8s ease;
+  box-shadow: 0 2px 14px #84064C;
+  background-color:  #84064C;
+  transition: all 0.1s ease;
 }
 
 .novedad4{
   border: 1px;
-  width: 150px;
+  width: 110px;
   height: 45px;
   padding:1px;
   border-radius: 10px;
   margin: 5px;
-  background-color: #290747;
-  color: #838383;
+  background-color: #5E0637;
+  color: white;
+  font-size: 16px;
 
 
 }
 
 .novedad4:hover{
-  color: rgba(255, 255, 255, 1) !important;
-  box-shadow: 0 4px 16px #6E6A72;
-  transition: all 0.8s ease;
+  box-shadow: 0 2px 14px #84064C;
+  background-color:  #84064C;
+  transition: all 0.1s ease;
 }
 
 .imagen{
@@ -911,7 +914,7 @@ body{
 
 .con-tech{
   margin-top: 25px;
-  margin-left: 15px;
+  margin-left: 30px;
 }
 
 .footer{
@@ -925,4 +928,19 @@ body{
 	font-family: 'Lato', sans-serif; 
   
 
+}
+
+/**/
+body::-webkit-scrollbar {
+  width: 8px;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: black;       /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #5E0637;   /* color of the scroll thumb */
+  border-radius: 10px;       /* roundness of the scroll thumb */
+  border: 1px solid #5E0637;  /* creates padding around scroll thumb */
 }
