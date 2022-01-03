@@ -820,6 +820,21 @@ body{
   margin-top: -90px;
 }
 
+/*c++*/
+.c-mas{
+  height: 70px;
+  width: 70px;
+  margin-left: 0px;
+  
+}
+
+.tech-c-mas{
+  width: 100px;
+  height: 100px;
+  margin-left: 160px;
+  margin-top: -100px;
+}
+
 /*JS*/
 .js{
   height: 60px;
