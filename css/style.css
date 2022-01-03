@@ -623,7 +623,7 @@ body{
   border-radius: 5px;
   background-color:  #b2a9b2;
   font-family: 'Lato', sans-serif; 
-  margin-left: 230px;
+  margin-left: 310px;
 
   margin-top: 10px;
  
@@ -826,6 +826,7 @@ body{
   width: 70px;
   margin-left: 0px;
   
+  
 }
 
 .tech-c-mas{
@@ -833,6 +834,7 @@ body{
   height: 100px;
   margin-left: 160px;
   margin-top: -100px;
+  background-color: black;
 }
 
 /*JS*/
