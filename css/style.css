@@ -196,7 +196,8 @@ body{
 
 .subtitulo{
 /*	color: #42cc86; A7035D #290747;*/
-  color: #5E0637;
+  /*color: #5E0637;*/
+  color: #4b0082;
 	font-size: 30px;
 	font-family: 'Lato', sans-serif; 
   font-weight: large;
@@ -283,7 +284,7 @@ body{
   padding:1px;
   border-radius: 7px;
   margin: 5px;
-  background-color: #5E0637;
+  background-color: #4b0082;
   color: white;
   font-family: 'Lato', sans-serif; 
   font-size: 16px;
@@ -291,8 +292,8 @@ body{
 }
 
 .novedad1:hover{
-  box-shadow: 0 2px 14px #84064C;
-  background-color:  #84064C;
+  box-shadow: 0 2px 14px #4b0082;
+  background-color:  #4b0082;
   transition: all 0.1s ease;
 }
 
@@ -303,15 +304,15 @@ body{
   padding: 1px;
   border-radius: 7px;
   margin: 5px;
-  background-color: #5E0637;
+  background-color: #4b0082;
   color: white;
   font-size: 16px;
   
 }
 
 .novedad2:hover{
-  box-shadow: 0 2px 14px #84064C;
-  background-color:  #84064C;
+  box-shadow: 0 2px 14px #4b0082;
+  background-color:  #4b0082;
   transition: all 0.1s ease;
 }
 
@@ -322,14 +323,14 @@ body{
   padding: 1px;
   border-radius: 7px;
   margin: 5px;
-  background-color: #5E0637;
+  background-color: #4b0082;
   color: white;
   font-size: 16px;
 }
 
 .novedad3:hover{
-  box-shadow: 0 2px 14px #84064C;
-  background-color:  #84064C;
+  box-shadow: 0 2px 14px #4b0082;
+  background-color:  #4b0082;
   transition: all 0.1s ease;
 }
 
@@ -340,7 +341,7 @@ body{
   padding:1px;
   border-radius: 7px;
   margin: 5px;
-  background-color: #5E0637;
+  background-color: #4b0082;
   color: white;
   font-size: 16px;
 
@@ -348,8 +349,8 @@ body{
 }
 
 .novedad4:hover{
-  box-shadow: 0 2px 14px #84064C;
-  background-color:  #84064C;
+  box-shadow: 0 2px 14px #4b0082;
+  background-color:  #4b0082;
   transition: all 0.1s ease;
 }
 
@@ -971,7 +972,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #5E0637;   /* color of the scroll thumb */
+  background-color: #4b0082;   /* color of the scroll thumb */
   border-radius: 10px;       /* roundness of the scroll thumb */
-  border: 1px solid #5E0637;  /* creates padding around scroll thumb */
+  border: 1px solid #4b0082;  /* creates padding around scroll thumb */
 }
